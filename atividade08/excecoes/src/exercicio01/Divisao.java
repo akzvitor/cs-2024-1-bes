@@ -1,3 +1,5 @@
+package exercicio01;
+
 import java.util.*;
 
 public class Divisao {
@@ -18,6 +20,8 @@ public class Divisao {
             System.out.println("Não é possível realizar uma divisão por zero.");
         } catch (InputMismatchException e) {
             System.out.println("A entrada deve ser um número inteiro.");
+        } finally {
+            scanner.close();
         }
     }
 }

@@ -1,3 +1,5 @@
+package exercicio02;
+
 import java.util.*;
 
 public class Vetor {
@@ -24,6 +26,8 @@ public class Vetor {
             System.out.println("Limite de 10 valores excedido.");
         } catch (InputMismatchException e) {
             System.out.println("O valor deve ser um número inteiro.");
+        } finally {
+            scanner.close();
         }
     }
 }
