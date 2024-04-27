@@ -30,6 +30,14 @@ péssimo do ponto de vista do desempenho, é bastante usado por ser interessante
 de vista de manutenibilidade e reusabilidade. Então, conclui-se que é necessário verificar
 o que é melhor levar em consideração em cada projeto.
 
+### Criando uma boa documentação
+O principal fator que diz respeito à qualidade de um software é o quão boa é sua
+documentação. Isto porque ela facilita imensamente o entendimento do código ao qual ela
+pertence. Poucos desenvolvedores gostam de explicar detalhadamente o que estão fazendo,
+mas a importância dessa atitude irá se revelar no futuro.
+
+Entretanto, ainda há a questão de como criar uma documentação apropriada e de qualidade.
+O principal método é a utilização de diagramas, por meio da linguagem UML. 
 
 
 
