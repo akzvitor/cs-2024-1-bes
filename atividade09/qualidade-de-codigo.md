@@ -1,4 +1,4 @@
-# Fatores de qualidade  na programação - DEVMEDIA
+# Fatores de qualidade na programação - DEVMEDIA
 
 ## Principais ideias
 
@@ -88,8 +88,62 @@ Entre elas, está a não aceitação de dados incorretos, tratamento de erros/ex
 construção de um texto bem documentado e organizado em funções e classes e utilização de
 API's prontas que já foram testadas e verificadas quanto à segurança.
 
+## Novidades para mim em relação ao conteúdo do artigo
+ - Linguagens de programação
+  
+    Em relação ao tópico que diz respeito à importância na escolha da linguagem de programação
+    para cada projeto, não sabia que API's, frameworks e o paradigma orientado a objetos
+    influenciavam tanto no desempenho e consumiam tanto recurso computacional.
 
+ - Documentação
 
+    Quanto à documentação do código, não conhecia o uso de comentários com tags XML e
+    ferramentas que geram uma documentação a partir desse tipo de comentário.
+
+  ## O que eu já conhecia
+ - Linguagens de programação
+
+   Deste tópico eu já tinha conhecimento sobre a importância de analisar e escolher
+   a linguagem de programação adequada para cada tipo de projeto, sobre a peculiaridade
+   das linguagens C# e Java na hora de compilar o código e sobre algumas diferenças de
+   desempenho.
+
+- Documentação
+ 
+   Conhecia a importância de ter um código/projeto bem documentado, os benefícios
+   dessa prática, bem como os principais métodos, como a utilização de diagramas,
+   a linguagem UML, comentários no próprio código fonte, conceitos como documentação
+   externa e interna, etc.
+
+- Código legível
+  
+  As práticas para um bom código legível, como indentação, definição de regras para
+  projetos feitos em equipe e uso de identificadores facilmente identificáveis.
+
+- Reaproveitamento de código
+  
+  Sabia que essa é uma prática bastante utilizada nos dias de hoje, com a quantidade
+  de códigos, funções e problemas que já foram resolvidos e estão disponíveis na
+  internet, em comunidades e afins.
+
+- Testes
+
+  Tinha noção em relação à importância dos testes, aos tipos de testes que geralmente
+  são feitos e pra que cada um deles serve.
+
+- Segurança
+
+  Técnicas utilizadas para garantir maior segurança no código, como as mais atuais
+  (blocos try/catch) e as antigas também (uso de if/else), além das API's, bem como
+  a boa organização e documentação do código.
+
+## Conclusão
+Esse artigo foi muito bem escrito, e, mesmo que apresente um conteúdo mais básico,
+é bem importante e pontua tópicos bastante relevantes no que tange à qualidade de
+código e software. Apresenta bons exemplos e práticas, além de contextualizar
+com o mercado e as linguagens de programação atuais. À partir da leitura desse artigo
+é possível compreender melhor o que é e como desenvolver um código ou projeto de 
+software com maior qualidade.
 
 
 
